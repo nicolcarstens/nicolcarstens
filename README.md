@@ -1,6 +1,8 @@
 # Hi, I'm Nicol 👋
 
-I'm a software engineer with a background in embedded systems, safety-critical engineering, Linux, automation, and system-level problem solving.
+I am a systems-oriented software engineer working at the intersection of hardware, embedded Linux, and control systems. Early in my career, I learned that the most interesting software problems are often the ones you can eventually see, hear, measure, or break in the physical world: timing problems, sensor behavior, control loops, failure modes, and systems that have to keep working outside ideal conditions. 
+
+Over two decades across industrial, medical, aviation, automotive, and energy domains, I have built and integrated reliable systems under real-world constraints, spanning embedded firmware, control systems, sensor integration, low-level software, and increasingly Linux-based edge platforms. I am strongest at the boundaries where hardware, long-lived software, and physics meet; where engineering judgment, clear thinking, and practical reliability matter more than slide decks.
 
 I enjoy building software that interacts with the real world: devices, operating systems, APIs, cloud infrastructure, test systems, and developer tools. My engineering background has made me especially interested in reliability, observability, clear documentation, and code that is understandable under pressure.
 
